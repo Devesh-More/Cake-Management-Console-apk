@@ -11,7 +11,7 @@ if (__name__ == "__main__"):
     us = input("User-Id: ")
     password = getpass.getpass(prompt="Enter password: ")
 
-    if (us == "K21WSHR" and password == "Devesh@22"):
+    if (us == "K21WSHR" and password == "password@22"):
         captcha = random.randint(1111,9999)
         print(f"Captcha Generated: {captcha}")
         cap = int(input("\nEnter numeric captcha: "))
