@@ -1,0 +1,4 @@
+101,Black forest,4,370.0
+102,Vanilla,3,200.0
+103,Pineapple,5,230.0
+104,Buttersquatch,3,950.0
