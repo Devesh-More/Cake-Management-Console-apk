@@ -10,5 +10,5 @@ Customer feedback option is provided</p>
   <li>Customer Login</li>
 </ul>
 
-<b>Admin login id:</b> <i>K21WSHR</i> and <b>Password</b> <i>password@22</i><br>
-<b>Customer login id</b> <i>C77BTES</i> and <b>Password</b> <i>>password@22</i> 
+<b>Admin login id:</b> <i>"K21WSHR"</i> and <b>Password</b> <i>"password@22"</i><br>
+<b>Customer login id</b> <i>"C77BTES"</i> and <b>Password</b> <i>"password@22"</i> 
